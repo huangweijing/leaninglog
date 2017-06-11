@@ -1,0 +1,2469 @@
+Welcome to Ubuntu 16.04.2 LTS (GNU/Linux 4.4.0-78-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+0 ????ì≠Âhñl?åX???Âh?öﬁ????
+0 ??åX???Âh???ô@?ôPôF?åX???Âh????
+
+*** ??ôFôL????????? ***
+Last login: Sun Jun 11 20:15:50 2017 from 192.168.1.51
+huangweijing@ubuntu-server:~$ ll
+?? 388
+drwxr-xr-x   49 huangweijing huangweijing  4096  5îJ 28 10:27 ./
+drwxr-xr-x    4 root         root          4096  7îJ 21  2016 ../
+-rw-------    1 huangweijing huangweijing  5206  9îJ 24  2016 .ICEauthority
+drwxrwxr-x    4 huangweijing huangweijing  4096  6îJ 18  2016 .IntelliJIdea2016.                                                                                                                                                                             1/
+-rw-------    1 huangweijing huangweijing   370  5îJ 23 22:30 .Xauthority
+drwxrwxr-x    3 huangweijing huangweijing  4096  6îJ 18  2016 .android/
+-rw-------    1 huangweijing huangweijing 22029  6îJ 11 21:40 .bash_history
+-rw-r--r--    1 huangweijing huangweijing   220  5îJ 28  2016 .bash_logout
+-rw-r--r--    1 huangweijing huangweijing  3947 10îJ 19  2016 .bashrc
+drwx------   30 huangweijing huangweijing  4096  5îJ 28 10:27 .cache/
+drwx------    3 huangweijing huangweijing  4096  9îJ 24  2016 .compiz/
+drwx------   31 huangweijing huangweijing  4096  5îJ 23 22:22 .config/
+-rw-rw-r--    1 huangweijing huangweijing   150 11îJ  5  2016 .dbshell
+drwx------    3 huangweijing huangweijing  4096  5îJ 28  2016 .dbus/
+-rw-r--r--    1 huangweijing huangweijing    25  9îJ 24  2016 .dmrc
+drwxrwxr-x    8 huangweijing huangweijing  4096  6îJ 22  2016 .eclipse/
+drwx------    3 huangweijing huangweijing  4096 10îJ 19  2016 .emacs.d/
+drwx------    3 huangweijing huangweijing  4096 11îJ 12  2016 .gconf/
+drwxr-xr-x   24 huangweijing huangweijing  4096  8îJ 18  2016 .gimp-2.8/
+-rw-rw-r--    1 huangweijing huangweijing    64 11îJ  6  2016 .gitconfig
+-rw-r-----    1 huangweijing huangweijing     0  6îJ 18  2016 .gksu.lock
+drwx------    3 huangweijing huangweijing  4096  5îJ 28  2016 .gnome/
+drwx------    3 huangweijing huangweijing  4096  9îJ 24  2016 .gnupg/
+drwxrwxr-x    4 huangweijing huangweijing  4096  6îJ 18  2016 .java/
+-rw-------    1 huangweijing huangweijing    42 11îJ 19  2016 .lesshst
+drwx------    3 huangweijing huangweijing  4096  5îJ 28  2016 .local/
+drwxrwxr-x    3 huangweijing huangweijing  4096  6îJ 17  2016 .m2/
+-rw-------    1 huangweijing huangweijing     0 11îJ  4  2016 .mongorc.js
+drwx------    2 huangweijing huangweijing  4096  5îJ 31  2016 .mozc/
+drwx------    4 huangweijing huangweijing  4096  5îJ 28  2016 .mozilla/
+-rw-------    1 huangweijing huangweijing  4996  6îJ 27  2016 .mysql_history
+drwxrwxr-x    2 huangweijing huangweijing  4096 11îJ  7  2016 .nano/
+-rw-------    1 huangweijing huangweijing   237  9îJ 16  2016 .node_repl_history
+drwxr-xr-x 1060 huangweijing huangweijing 36864 11îJ 17  2016 .npm/
+drwxr-xr-x    3 huangweijing huangweijing  4096  5îJ 29  2016 .oracle/
+drwxrwxr-x    6 huangweijing huangweijing  4096  8îJ 19  2016 .p2/
+drwx------    3 huangweijing huangweijing  4096  5îJ 28  2016 .pki/
+-rw-r--r--    1 huangweijing huangweijing   675  5îJ 28  2016 .profile
+-rw-------    1 huangweijing huangweijing    17  5îJ 28 10:27 .python_history
+-rw-------    1 root         root          1024  8îJ 17  2016 .rnd
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 29  2016 .rpmdb/
+drwxrwxr-x    3 huangweijing huangweijing  4096  6îJ 17  2016 .smartgit/
+drwx------    2 huangweijing huangweijing  4096  5îJ 28  2016 .ssh/
+-rw-r--r--    1 huangweijing huangweijing     0  5îJ 28  2016 .sudo_as_admin_suc                                                                                                                                                                             cessful
+drwx------    4 huangweijing huangweijing  4096  9îJ 24  2016 .thumbnails/
+drwx------    4 huangweijing huangweijing  4096  5îJ 28  2016 .thunderbird/
+-rw-rw-r--    1 huangweijing huangweijing  9135 11îJ  3  2016 .v8flags.5.0.71.52                                                                                                                                                                             .huangweijing.json
+drwxr-xr-x    4 huangweijing huangweijing  4096 12îJ  4  2016 .vim/
+drwxr-xr-x    3 huangweijing huangweijing  4096 10îJ 19  2016 .vim.bak.1/
+drwxr-xr-x    3 huangweijing huangweijing  4096 10îJ 19  2016 .vim.bak.2/
+drwxr-xr-x    3 huangweijing huangweijing  4096 10îJ 19  2016 .vim.bak.3/
+drwxr-xr-x    3 root         root          4096 10îJ 19  2016 .vim.bak.4/
+-rw-------    1 huangweijing huangweijing 29647  5îJ 28 10:24 .viminfo
+drwxrwxr-x    5 huangweijing huangweijing  4096 10îJ 19  2016 .vimpkg/
+-rw-rw-r--    1 huangweijing huangweijing   208 11îJ 12  2016 .vimrc
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 23 22:30 .vnc/
+drwx------    2 huangweijing huangweijing  4096 11îJ 12  2016 .w3m/
+-rw-rw-r--    1 huangweijing huangweijing   170  9îJ 24  2016 .wget-hsts
+-rw-rw-r--    1 huangweijing huangweijing  7305  5îJ 28  2016 .xboardrc
+-rw-------    1 huangweijing huangweijing  1696  9îJ 24  2016 .xsession-errors
+-rw-------    1 huangweijing huangweijing  1436  9îJ 24  2016 .xsession-errors.o                                                                                                                                                                             ld
+drwxr-xr-x    2 huangweijing huangweijing  4096  6îJ 22  2016 Desktop/
+drwxr-xr-x    3 huangweijing huangweijing  4096  5îJ 29  2016 Documents/
+drwxr-xr-x    5 huangweijing huangweijing  4096  7îJ 21  2016 Downloads/
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 28  2016 Music/
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 28  2016 Pictures/
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 28  2016 Public/
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 28  2016 Templates/
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 28  2016 Videos/
+drwxrwxr-x    6 huangweijing huangweijing  4096 10îJ 19  2016 app/
+drwxr-x---    2 huangweijing huangweijing  4096 10îJ 19  2016 apt-vim/
+drwxrwxr-x    2 huangweijing huangweijing  4096  7îJ  2  2016 cur/
+lrwxrwxrwx    1 huangweijing huangweijing    21  7îJ  2  2016 nj -> Documents/de                                                                                                                                                                             v/nodejs//
+lrwxrwxrwx    1 huangweijing huangweijing    39  5îJ 28 08:52 py -> /home/huangw                                                                                                                                                                             eijing/Documents/dev/python/
+-rwxrwxr-x    1 huangweijing huangweijing    34  6îJ 17  2016 vnc*
+drwxrwxr-x   11 huangweijing huangweijing  4096  9îJ  6  2016 workspace/
+huangweijing@ubuntu-server:~$ cd Do
+huangweijing@ubuntu-server:~$ cd Do
+-bash: cd: Do: ???˙xë§???ôO??????ôP???åÜ??
+huangweijing@ubuntu-server:~$
+huangweijing@ubuntu-server:~$
+huangweijing@ubuntu-server:~$ ll
+?? 388
+drwxr-xr-x   49 huangweijing huangweijing  4096  5îJ 28 10:27 ./
+drwxr-xr-x    4 root         root          4096  7îJ 21  2016 ../
+-rw-------    1 huangweijing huangweijing  5206  9îJ 24  2016 .ICEauthority
+drwxrwxr-x    4 huangweijing huangweijing  4096  6îJ 18  2016 .IntelliJIdea2016.1/
+-rw-------    1 huangweijing huangweijing   370  5îJ 23 22:30 .Xauthority
+drwxrwxr-x    3 huangweijing huangweijing  4096  6îJ 18  2016 .android/
+-rw-------    1 huangweijing huangweijing 22029  6îJ 11 21:40 .bash_history
+-rw-r--r--    1 huangweijing huangweijing   220  5îJ 28  2016 .bash_logout
+-rw-r--r--    1 huangweijing huangweijing  3947 10îJ 19  2016 .bashrc
+drwx------   30 huangweijing huangweijing  4096  5îJ 28 10:27 .cache/
+drwx------    3 huangweijing huangweijing  4096  9îJ 24  2016 .compiz/
+drwx------   31 huangweijing huangweijing  4096  5îJ 23 22:22 .config/
+-rw-rw-r--    1 huangweijing huangweijing   150 11îJ  5  2016 .dbshell
+drwx------    3 huangweijing huangweijing  4096  5îJ 28  2016 .dbus/
+-rw-r--r--    1 huangweijing huangweijing    25  9îJ 24  2016 .dmrc
+drwxrwxr-x    8 huangweijing huangweijing  4096  6îJ 22  2016 .eclipse/
+drwx------    3 huangweijing huangweijing  4096 10îJ 19  2016 .emacs.d/
+drwx------    3 huangweijing huangweijing  4096 11îJ 12  2016 .gconf/
+drwxr-xr-x   24 huangweijing huangweijing  4096  8îJ 18  2016 .gimp-2.8/
+-rw-rw-r--    1 huangweijing huangweijing    64 11îJ  6  2016 .gitconfig
+-rw-r-----    1 huangweijing huangweijing     0  6îJ 18  2016 .gksu.lock
+drwx------    3 huangweijing huangweijing  4096  5îJ 28  2016 .gnome/
+drwx------    3 huangweijing huangweijing  4096  9îJ 24  2016 .gnupg/
+drwxrwxr-x    4 huangweijing huangweijing  4096  6îJ 18  2016 .java/
+-rw-------    1 huangweijing huangweijing    42 11îJ 19  2016 .lesshst
+drwx------    3 huangweijing huangweijing  4096  5îJ 28  2016 .local/
+drwxrwxr-x    3 huangweijing huangweijing  4096  6îJ 17  2016 .m2/
+-rw-------    1 huangweijing huangweijing     0 11îJ  4  2016 .mongorc.js
+drwx------    2 huangweijing huangweijing  4096  5îJ 31  2016 .mozc/
+drwx------    4 huangweijing huangweijing  4096  5îJ 28  2016 .mozilla/
+-rw-------    1 huangweijing huangweijing  4996  6îJ 27  2016 .mysql_history
+drwxrwxr-x    2 huangweijing huangweijing  4096 11îJ  7  2016 .nano/
+-rw-------    1 huangweijing huangweijing   237  9îJ 16  2016 .node_repl_history
+drwxr-xr-x 1060 huangweijing huangweijing 36864 11îJ 17  2016 .npm/
+drwxr-xr-x    3 huangweijing huangweijing  4096  5îJ 29  2016 .oracle/
+drwxrwxr-x    6 huangweijing huangweijing  4096  8îJ 19  2016 .p2/
+drwx------    3 huangweijing huangweijing  4096  5îJ 28  2016 .pki/
+-rw-r--r--    1 huangweijing huangweijing   675  5îJ 28  2016 .profile
+-rw-------    1 huangweijing huangweijing    17  5îJ 28 10:27 .python_history
+-rw-------    1 root         root          1024  8îJ 17  2016 .rnd
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 29  2016 .rpmdb/
+drwxrwxr-x    3 huangweijing huangweijing  4096  6îJ 17  2016 .smartgit/
+drwx------    2 huangweijing huangweijing  4096  5îJ 28  2016 .ssh/
+-rw-r--r--    1 huangweijing huangweijing     0  5îJ 28  2016 .sudo_as_admin_successful
+drwx------    4 huangweijing huangweijing  4096  9îJ 24  2016 .thumbnails/
+drwx------    4 huangweijing huangweijing  4096  5îJ 28  2016 .thunderbird/
+-rw-rw-r--    1 huangweijing huangweijing  9135 11îJ  3  2016 .v8flags.5.0.71.52.huangweijing.json
+drwxr-xr-x    4 huangweijing huangweijing  4096 12îJ  4  2016 .vim/
+drwxr-xr-x    3 huangweijing huangweijing  4096 10îJ 19  2016 .vim.bak.1/
+drwxr-xr-x    3 huangweijing huangweijing  4096 10îJ 19  2016 .vim.bak.2/
+drwxr-xr-x    3 huangweijing huangweijing  4096 10îJ 19  2016 .vim.bak.3/
+drwxr-xr-x    3 root         root          4096 10îJ 19  2016 .vim.bak.4/
+-rw-------    1 huangweijing huangweijing 29647  5îJ 28 10:24 .viminfo
+drwxrwxr-x    5 huangweijing huangweijing  4096 10îJ 19  2016 .vimpkg/
+-rw-rw-r--    1 huangweijing huangweijing   208 11îJ 12  2016 .vimrc
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 23 22:30 .vnc/
+drwx------    2 huangweijing huangweijing  4096 11îJ 12  2016 .w3m/
+-rw-rw-r--    1 huangweijing huangweijing   170  9îJ 24  2016 .wget-hsts
+-rw-rw-r--    1 huangweijing huangweijing  7305  5îJ 28  2016 .xboardrc
+-rw-------    1 huangweijing huangweijing  1696  9îJ 24  2016 .xsession-errors
+-rw-------    1 huangweijing huangweijing  1436  9îJ 24  2016 .xsession-errors.old
+drwxr-xr-x    2 huangweijing huangweijing  4096  6îJ 22  2016 Desktop/
+drwxr-xr-x    3 huangweijing huangweijing  4096  5îJ 29  2016 Documents/
+drwxr-xr-x    5 huangweijing huangweijing  4096  7îJ 21  2016 Downloads/
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 28  2016 Music/
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 28  2016 Pictures/
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 28  2016 Public/
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 28  2016 Templates/
+drwxr-xr-x    2 huangweijing huangweijing  4096  5îJ 28  2016 Videos/
+drwxrwxr-x    6 huangweijing huangweijing  4096 10îJ 19  2016 app/
+drwxr-x---    2 huangweijing huangweijing  4096 10îJ 19  2016 apt-vim/
+drwxrwxr-x    2 huangweijing huangweijing  4096  7îJ  2  2016 cur/
+lrwxrwxrwx    1 huangweijing huangweijing    21  7îJ  2  2016 nj -> Documents/dev/nodejs//
+lrwxrwxrwx    1 huangweijing huangweijing    39  5îJ 28 08:52 py -> /home/huangweijing/Documents/dev/python/
+-rwxrwxr-x    1 huangweijing huangweijing    34  6îJ 17  2016 vnc*
+drwxrwxr-x   11 huangweijing huangweijing  4096  9îJ  6  2016 workspace/
+huangweijing@ubuntu-server:~$ cd Documents/
+huangweijing@ubuntu-server:~/Documents$ ll
+?? 12
+drwxr-xr-x  3 huangweijing huangweijing 4096  5îJ 29  2016 ./
+drwxr-xr-x 49 huangweijing huangweijing 4096  5îJ 28 10:27 ../
+drwxrwxrwx  6 huangweijing huangweijing 4096  6îJ 11 20:16 dev/
+huangweijing@ubuntu-server:~/Documents$ cd dev
+huangweijing@ubuntu-server:~/Documents/dev$ ll
+?? 24
+drwxrwxrwx  6 huangweijing huangweijing 4096  6îJ 11 20:16 ./
+drwxr-xr-x  3 huangweijing huangweijing 4096  5îJ 29  2016 ../
+-rw-rw-r--  1 huangweijing huangweijing    0 11îJ 12  2016 example.client.controller.js
+drwxrwxr-x  3 huangweijing huangweijing 4096  6îJ 11 20:22 git/
+drwxrwxr-x 15 huangweijing huangweijing 4096 11îJ 19  2016 nodejs/
+drwxrwxr-x  4 huangweijing huangweijing 4096  5îJ 28 08:53 python/
+drwxrwxr-x  3 huangweijing huangweijing 4096  9îJ 30  2016 ruby/
+huangweijing@ubuntu-server:~/Documents/dev$ cd git
+huangweijing@ubuntu-server:~/Documents/dev/git$ lll
+???? 'lll' ???òÚ?åÜ????????òÚ?˙y:
+ ???? 'llt' - ??ì≠Âhñl 'storebackup' (universe)
+ ???? 'llc' - ??ì≠Âhñl 'llvm' (universe)
+ ???? 'dll' - ??ì≠Âhñl 'brickos' (universe)
+ ???? 'lli' - ??ì≠Âhñl 'llvm-runtime' (universe)
+lll: ???????òÚ?åÜ??
+huangweijing@ubuntu-server:~/Documents/dev/git$ ll
+?? 12
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ./
+drwxrwxrwx 6 huangweijing huangweijing 4096  6îJ 11 20:16 ../
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:26 20170611/
+huangweijing@ubuntu-server:~/Documents/dev/git$ cd 20170611/
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:26 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 21:15 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing    6  6îJ 11 20:26 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ls -trl
+?? 8
+-rw-rw-r-- 1 huangweijing huangweijing 10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing  6  6îJ 11 20:26 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:26 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 21:15 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing    6  6îJ 11 20:26 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph
+* commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 21:10:45 2017 +0900
+|
+|     oha
+|
+* commit 31d922eaedbee26ef94c1a886cbde2836231b425
+  Author: huangweijing <huangweijinglove@gmail.com>
+  Date:   Sun Jun 11 20:25:38 2017 +0900
+
+      first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph
+* commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 21:10:45 2017 +0900
+|
+|     oha
+|
+* commit 31d922eaedbee26ef94c1a886cbde2836231b425
+  Author: huangweijing <huangweijinglove@gmail.com>
+  Date:   Sun Jun 11 20:25:38 2017 +0900
+
+      first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ echo iv installed duet just now >> msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:26 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 21:15 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   33  6îJ 11 22:42 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git stat
+git: 'stat' ?git????????åÜ??? 'git --help'??úq?˙y?????
+
+Did you mean one of these?
+        status
+        stage
+        stash
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph
+* commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 21:10:45 2017 +0900
+|
+|     oha
+|
+* commit 31d922eaedbee26ef94c1a886cbde2836231b425
+  Author: huangweijing <huangweijinglove@gmail.com>
+  Date:   Sun Jun 11 20:25:38 2017 +0900
+
+      first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git commit -m "duet"
+On branch master
+Changes not staged for commit:
+        modified:   msg
+
+no changes added to commit
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ add .
+???? 'add' ???òÚ?åÜ????????òÚ?˙y:
+ ???? 'dd' - ??ì≠Âhñl 'coreutils' (main)
+ ???? 'ldd' - ??ì≠Âhñl 'libc-bin' (main)
+ ???? 'tdd' - ??ì≠Âhñl 'devtodo' (universe)
+ ???? 'amd' - ??ì≠Âhñl 'am-utils' (universe)
+ ???? 'adbd' - ??ì≠Âhñl 'android-tools-adbd' (universe)
+ ???? 'adb' - ??ì≠Âhñl 'android-tools-adb' (universe)
+ ???? 'adb' - ??ì≠Âhñl 'adb' (universe)
+ ???? 'ad' - ??ì≠Âhñl 'netatalk' (universe)
+ ???? 'atd' - ??ì≠Âhñl 'at' (main)
+ ???? 'ddd' - ??ì≠Âhñl 'ddd' (universe)
+ ???? 'hadd' - ??ì≠Âhñl 'root-system-bin' (universe)
+ ???? 'aid' - ??ì≠Âhñl 'id-utils' (universe)
+ ???? 'axd' - ??ì≠Âhñl 'afnix' (universe)
+ ???? 'and' - ??ì≠Âhñl 'and' (universe)
+add: ???????òÚ?åÜ??
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git add .
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git commit -m "duet"
+[master 4a88bdd] duet
+ 1 file changed, 1 insertion(+)
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git diff -p
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git diff -p 2
+fatal: ambiguous argument '2': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git diff -2
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:26 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 22:43 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   33  6îJ 11 22:42 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch
+* master
+  test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git checkout test
+Switched to branch 'test'
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch
+  master
+* test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph
+* commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 21:10:45 2017 +0900
+|
+|     oha
+|
+* commit 31d922eaedbee26ef94c1a886cbde2836231b425
+  Author: huangweijing <huangweijinglove@gmail.com>
+  Date:   Sun Jun 11 20:25:38 2017 +0900
+
+      first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 22:43 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 22:43 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing    6  6îJ 11 22:43 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ cat msg
+mygod
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ echo test branch here > msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch test
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git commit -m "test branch here"
+On branch test
+Changes not staged for commit:
+        modified:   msg
+
+no changes added to commit
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git commit -a -m "test branch here"
+[test ef6449a] test branch here
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ lll
+???? 'lll' ???òÚ?åÜ????????òÚ?˙y:
+ ???? 'llt' - ??ì≠Âhñl 'storebackup' (universe)
+ ???? 'dll' - ??ì≠Âhñl 'brickos' (universe)
+ ???? 'llc' - ??ì≠Âhñl 'llvm' (universe)
+ ???? 'lli' - ??ì≠Âhñl 'llvm-runtime' (universe)
+lll: ???????òÚ?åÜ??
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 22:43 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 22:44 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   17  6îJ 11 22:44 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ llls -trl
+llls: ???????òÚ?åÜ??
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ls -trl
+?? 8
+-rw-rw-r-- 1 huangweijing huangweijing 10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing 17  6îJ 11 22:44 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph
+* commit ef6449a52be24dc5b3e3454432f1512c123e642e
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 22:44:47 2017 +0900
+|
+|     test branch here
+|
+* commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 21:10:45 2017 +0900
+|
+|     oha
+|
+* commit 31d922eaedbee26ef94c1a886cbde2836231b425
+  Author: huangweijing <huangweijinglove@gmail.com>
+  Date:   Sun Jun 11 20:25:38 2017 +0900
+
+      first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git checkout master
+Switched to branch 'master'
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch
+* master
+  test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph
+* commit 4a88bdde0b94183030fc99814f730c69f218b303
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 22:43:00 2017 +0900
+|
+|     duet
+|
+* commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 21:10:45 2017 +0900
+|
+|     oha
+|
+* commit 31d922eaedbee26ef94c1a886cbde2836231b425
+  Author: huangweijing <huangweijinglove@gmail.com>
+  Date:   Sun Jun 11 20:25:38 2017 +0900
+
+      first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --decorate --graph --all
+* ef6449a (test) test branch here
+| * 4a88bdd (HEAD -> master) duet
+|/
+* 1510ff8 oha
+* 31d922e (tag: v0.1) first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch
+* master
+  test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge test
+Auto-merging msg
+CONFLICT (content): Merge conflict in msg
+Automatic merge failed; fix conflicts and then commit the result.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 22:52 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 22:52 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   84  6îJ 11 22:52 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch master
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+        both modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ vi msg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  1 <<<<<<< HEAD
+  2 mygod
+  3 iv installed duet just now
+  4 =======
+  5 test branch here
+  6 >>>>>>> test
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+msg                                                                                                                                                                                                                                        1,1           ?˙y
+"msg" 6L, 84C
+  1 <<<<<<< HEAD
+  2 mygod
+  3 iv installed duet just now
+  4 =======
+  5 test branch here
+  6 >>>>>>> test
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+msg                                                                                                                                                                                                                                        1,1           ?˙y
+"msg" 6L, 84C
+  1 <<<<<<< HEAD
+  2 mygod
+  3 iv installed duet just now
+  4 =======
+  5 test branch here
+  6 >>>>>>> test
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+msg                                                                                                                                                                                                                                        1,1           ?˙y
+
+* commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 21:10:45 2017 +0900
+|
+|     oha
+|
+* commit 31d922eaedbee26ef94c1a886cbde2836231b425
+  Author: huangweijing <huangweijinglove@gmail.com>
+  Date:   Sun Jun 11 20:25:38 2017 +0900
+
+      first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git checkout master
+Switched to branch 'master'
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch
+* master
+  test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph
+* commit 4a88bdde0b94183030fc99814f730c69f218b303
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 22:43:00 2017 +0900
+|
+|     duet
+|
+* commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 21:10:45 2017 +0900
+|
+|     oha
+|
+* commit 31d922eaedbee26ef94c1a886cbde2836231b425
+  Author: huangweijing <huangweijinglove@gmail.com>
+  Date:   Sun Jun 11 20:25:38 2017 +0900
+
+      first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --decorate --graph --all
+* ef6449a (test) test branch here
+| * 4a88bdd (HEAD -> master) duet
+|/
+* 1510ff8 oha
+* 31d922e (tag: v0.1) first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch
+* master
+  test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge test
+Auto-merging msg
+CONFLICT (content): Merge conflict in msg
+Automatic merge failed; fix conflicts and then commit the result.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 22:52 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 22:52 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   84  6îJ 11 22:52 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch master
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+        both modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ vi msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --decorate --graph --all
+* ef6449a (test) test branch here
+| * 4a88bdd (HEAD -> master) duet
+|/
+* 1510ff8 oha
+* 31d922e (tag: v0.1) first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git mergetool
+
+This message is displayed because 'merge.tool' is not configured.
+See 'git mergetool --tool-help' or 'git help config' for more details.
+'git mergetool' will now attempt to use one of the following tools:
+tortoisemerge emerge vimdiff
+Merging:
+msg
+
+Normal merge conflict for 'msg':
+  {local}: modified file
+  {remote}: modified file
+Hit return to start merge resolution tool (vimdiff): git status
+4 ?????ôO?ì‹????˙y?åÜ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"msg" 6L, 84C
+    1 mygod                                                                         |    1 mygod                                                                         |    1 test branch here
+    2 iv installed duet just now                                                    |  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------|  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------|  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------|  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------|  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+./msg_LOCAL_26496                                                 1,1           ?˙y ./msg_BASE_26496                                                  1,1           ?˙y ./msg_REMOTE_26496                                               1,1           ?˙y
+    1 <<<<<<< HEAD
+    2 mygod
+    3 iv installed duet just now
+    4 =======
+    5 test branch here
+    6 >>>>>>> test
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+msg^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^1,1^^^^^^^^^^^?˙y
+
+    1 mygod                                                                         |    1 mygod                                                                         |    1 test branch here
+    2 iv installed duet just now                                                    |  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+./msg_LOCAL_26496^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^2,1^^^^^^^^^^^?˙y^./msg_BASE_26496                                                  1,1           ?˙y ./msg_REMOTE_26496                                               1,1           ?˙y
+
+|
+|     duet
+|
+* commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 21:10:45 2017 +0900
+|
+|     oha
+|
+* commit 31d922eaedbee26ef94c1a886cbde2836231b425
+  Author: huangweijing <huangweijinglove@gmail.com>
+  Date:   Sun Jun 11 20:25:38 2017 +0900
+
+      first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --decorate --graph --all
+* ef6449a (test) test branch here
+| * 4a88bdd (HEAD -> master) duet
+|/
+* 1510ff8 oha
+* 31d922e (tag: v0.1) first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch
+* master
+  test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge test
+Auto-merging msg
+CONFLICT (content): Merge conflict in msg
+Automatic merge failed; fix conflicts and then commit the result.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 22:52 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 22:52 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   84  6îJ 11 22:52 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch master
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+        both modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ vi msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --decorate --graph --all
+* ef6449a (test) test branch here
+| * 4a88bdd (HEAD -> master) duet
+|/
+* 1510ff8 oha
+* 31d922e (tag: v0.1) first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git mergetool
+
+This message is displayed because 'merge.tool' is not configured.
+See 'git mergetool --tool-help' or 'git help config' for more details.
+'git mergetool' will now attempt to use one of the following tools:
+tortoisemerge emerge vimdiff
+Merging:
+msg
+
+Normal merge conflict for 'msg':
+  {local}: modified file
+  {remote}: modified file
+Hit return to start merge resolution tool (vimdiff): git status
+4 ?????ôO?ì‹????˙y?åÜ?
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch master
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+
+        modified:   msg
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        msg.orig
+
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 24
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 22:59 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 22:59 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   50  6îJ 11 22:59 msg
+-rw-rw-r-- 1 huangweijing huangweijing   84  6îJ 11 22:58 msg.orig
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ cat msg.orig
+<<<<<<< HEAD
+mygod
+iv installed duet just now
+=======
+test branch here
+>>>>>>> test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ rm msg.orig
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:00 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 22:59 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   50  6îJ 11 22:59 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge
+fatal: You have not concluded your merge (MERGE_HEAD exists).
+Please, commit your changes before you merge.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch master
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+
+        modified:   msg
+
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git add .
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git commit -a -m "merged over"
+[master ee093e3] merged over
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --decorate --graph --all
+*   ee093e3 (HEAD -> master) merged over
+|\
+| * ef6449a (test) test branch here
+* | 4a88bdd duet
+|/
+* 1510ff8 oha
+* 31d922e (tag: v0.1) first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:00 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:01 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   50  6îJ 11 22:59 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ time
+
+real    0m0.000s
+user    0m0.000s
+sys     0m0.000s
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ date
+2017?  6îJ 11ù^ ù^ûãù^ 23:01:41 JST
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ cat `date` >> msg
+cat: 2017?: ???˙xë§???ôO??????ôP???åÜ??
+cat: 6îJ: ???˙xë§???ôO??????ôP???åÜ??
+cat: 11ù^: ???˙xë§???ôO??????ôP???åÜ??
+cat: ù^ûãù^: ???˙xë§???ôO??????ôP???åÜ??
+cat: '23:01:50': ???˙xë§???ôO??????ôP???åÜ??
+cat: JST: ???˙xë§???ôO??????ôP???åÜ??
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ echo `date` >> msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:00 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:01 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   92  6îJ 11 23:01 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log
+commit ee093e37560600a00364ada363ebe2902e27a890
+Merge: 4a88bdd ef6449a
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 23:01:14 2017 +0900
+
+    merged over
+
+commit ef6449a52be24dc5b3e3454432f1512c123e642e
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 22:44:47 2017 +0900
+
+    test branch here
+
+commit 4a88bdde0b94183030fc99814f730c69f218b303
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 22:43:00 2017 +0900
+
+    duet
+
+commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 21:10:45 2017 +0900
+
+    oha
+
+commit 31d922eaedbee26ef94c1a886cbde2836231b425
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 20:25:38 2017 +0900
+
+    first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph
+*   commit ee093e37560600a00364ada363ebe2902e27a890
+|\  Merge: 4a88bdd ef6449a
+| | Author: huangweijing <huangweijinglove@gmail.com>
+| | Date:   Sun Jun 11 23:01:14 2017 +0900
+| |
+| |     merged over
+| |
+| * commit ef6449a52be24dc5b3e3454432f1512c123e642e
+| | Author: huangweijing <huangweijinglove@gmail.com>
+| | Date:   Sun Jun 11 22:44:47 2017 +0900
+| |
+| |     test branch here
+| |
+* | commit 4a88bdde0b94183030fc99814f730c69f218b303
+|/  Author: huangweijing <huangweijinglove@gmail.com>
+|   Date:   Sun Jun 11 22:43:00 2017 +0900
+|
+|       duet
+|
+* commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+| Author: huangweijing <huangweijinglove@gmail.com>
+| Date:   Sun Jun 11 21:10:45 2017 +0900
+|
+|     oha
+|
+* commit 31d922eaedbee26ef94c1a886cbde2836231b425
+  Author: huangweijing <huangweijinglove@gmail.com>
+  Date:   Sun Jun 11 20:25:38 2017 +0900
+
+      first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --graph --all
+*   ee093e3 merged over
+|\
+| * ef6449a test branch here
+* | 4a88bdd duet
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git commit -a -m "commit after merged"
+[master e8f9af2] commit after merged
+ 1 file changed, 1 insertion(+)
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log
+commit e8f9af250b133ee188df51dda5c7ec231f32871d
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 23:02:57 2017 +0900
+
+    commit after merged
+
+commit ee093e37560600a00364ada363ebe2902e27a890
+Merge: 4a88bdd ef6449a
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 23:01:14 2017 +0900
+
+    merged over
+
+commit ef6449a52be24dc5b3e3454432f1512c123e642e
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 22:44:47 2017 +0900
+
+    test branch here
+
+commit 4a88bdde0b94183030fc99814f730c69f218b303
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 22:43:00 2017 +0900
+
+    duet
+
+commit 1510ff858ddf7be9a0124f0548b523fbff137cd2
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 21:10:45 2017 +0900
+
+    oha
+
+commit 31d922eaedbee26ef94c1a886cbde2836231b425
+Author: huangweijing <huangweijinglove@gmail.com>
+Date:   Sun Jun 11 20:25:38 2017 +0900
+
+    first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --graph --all
+* e8f9af2 commit after merged
+*   ee093e3 merged over
+|\
+| * ef6449a test branch here
+* | 4a88bdd duet
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git checkout test
+Switched to branch 'test'
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --graph --all
+* e8f9af2 commit after merged
+*   ee093e3 merged over
+|\
+| * ef6449a test branch here
+* | 4a88bdd duet
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch
+  master
+* test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch another
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git checkout another
+Switched to branch 'another'
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch
+* another
+  master
+  test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ echo onanother >> msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git -a -m "msg from onanother "
+Unknown option: -a
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git commit -a -m "msg from onanother "
+[another 1cab3f4] msg from onanother
+ 1 file changed, 1 insertion(+)
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --graph --all
+* 1cab3f4 msg from onanother
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| |/
+|/|
+* | ef6449a test branch here
+| * 4a88bdd duet
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ echo lalala >> msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ cat msg
+test branch here
+onanother
+lalala
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git commit -a -m "msg from onanother lll"
+[another eb6ddbd] msg from onanother lll
+ 1 file changed, 1 insertion(+)
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --graph --all
+* eb6ddbd msg from onanother lll
+* 1cab3f4 msg from onanother
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| |/
+|/|
+* | ef6449a test branch here
+| * 4a88bdd duet
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge master
+Auto-merging msg
+CONFLICT (content): Merge conflict in msg
+Automatic merge failed; fix conflicts and then commit the result.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:06 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:06 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing  145  6îJ 11 23:06 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge msg
+error: merge is not possible because you have unmerged files.
+???: Fix them up in the work tree, and then use 'git add/rm <file>'
+???: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch another
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+        both modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git mergetool
+
+This message is displayed because 'merge.tool' is not configured.
+See 'git mergetool --tool-help' or 'git help config' for more details.
+'git mergetool' will now attempt to use one of the following tools:
+tortoisemerge emerge vimdiff
+Merging:
+msg
+
+Normal merge conflict for 'msg':
+  {local}: modified file
+  {remote}: modified file
+Hit return to start merge resolution tool (vimdiff):
+4 ?????ôO?ì‹????˙y?åÜ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"msg" 9L, 145C
+      ------------------------------------------------------------------------------|      ------------------------------------------------------------------------------|    1 mygod
+      ------------------------------------------------------------------------------|      ------------------------------------------------------------------------------|    2 iv installed duet just now
+    1 test branch here                                                              |    1 test branch here                                                              |    3 test branch here
+    2 onanother                                                                     |  ----------------------------------------------------------------------------------|    4 2017? 6îJ 11ù^ ù^ûãù^ 23:01:54 JST
+    3 lalala                                                                        |  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------|  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------|  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------|  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------|  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+./msg_LOCAL_26844                                                 1,1           ?˙y ./msg_BASE_26844                                                  1,1           ?˙y ./msg_REMOTE_26844                                               1,1           ?˙y
+    1 mygod
+    2 iv installed duet just now
+    3 test branch here
+    4 <<<<<<< HEAD
+    5 onanother
+    6 lalala
+    7 =======
+    8 2017? 6îJ 11ù^ ù^ûãù^ 23:01:54 JST
+    9 >>>>>>> master
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+  ~
+msg^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^1,1^^^^^^^^^^^?˙y
+
+      ------------------------------------------------------------------------------|      ------------------------------------------------------------------------------|    1 mygod
+      ------------------------------------------------------------------------------|      ------------------------------------------------------------------------------|    2 iv installed duet just now
+    1 test branch here                                                              |    1 test branch here                                                              |    3 test branch here
+    2 onanother                                                                     |  ----------------------------------------------------------------------------------|    4 2017? 6îJ 11ù^ ù^ûãù^ 23:01:54 JST
+    3 lalala                                                                        |  ----------------------------------------------------------------------------------|  ---------------------------------------------------------------------------------
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+  ~                                                                                 |  ~                                                                                 |  ~
+./msg_LOCAL_26844^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^3,1^^^^^^^^^^^?˙y^./msg_BASE_26844                                                  1,1           ?˙y ./msg_REMOTE_26844                                               4,1           ?˙y
+
+|/|
+* | ef6449a test branch here
+| * 4a88bdd duet
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ echo lalala >> msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ cat msg
+test branch here
+onanother
+lalala
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git commit -a -m "msg from onanother lll"
+[another eb6ddbd] msg from onanother lll
+ 1 file changed, 1 insertion(+)
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --oneline --graph --all
+* eb6ddbd msg from onanother lll
+* 1cab3f4 msg from onanother
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| |/
+|/|
+* | ef6449a test branch here
+| * 4a88bdd duet
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge master
+Auto-merging msg
+CONFLICT (content): Merge conflict in msg
+Automatic merge failed; fix conflicts and then commit the result.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:06 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:06 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing  145  6îJ 11 23:06 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge msg
+error: merge is not possible because you have unmerged files.
+???: Fix them up in the work tree, and then use 'git add/rm <file>'
+???: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch another
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+        both modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git mergetool
+
+This message is displayed because 'merge.tool' is not configured.
+See 'git mergetool --tool-help' or 'git help config' for more details.
+'git mergetool' will now attempt to use one of the following tools:
+tortoisemerge emerge vimdiff
+Merging:
+msg
+
+Normal merge conflict for 'msg':
+  {local}: modified file
+  {remote}: modified file
+Hit return to start merge resolution tool (vimdiff):
+4 ?????ôO?ì‹????˙y?åÜ?
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git mergetool
+
+This message is displayed because 'merge.tool' is not configured.
+See 'git mergetool --tool-help' or 'git help config' for more details.
+'git mergetool' will now attempt to use one of the following tools:
+tortoisemerge emerge vimdiff
+No files need merging
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 24
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:08 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:08 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing  132  6îJ 11 23:08 msg
+-rw-rw-r-- 1 huangweijing huangweijing  145  6îJ 11 23:07 msg.orig
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ vi msg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  1 mygod
+  2 iv installed duet just now
+  3 test branch here
+  4 onanother
+  5 lalala
+  6 =======
+  7 2017? 6îJ 11ù^ ù^ûãù^ 23:01:54 JST
+  8 >>>>>>> master
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+msg                                                                                                                                                                                                                                        1,1           ?˙y
+"msg" 8L, 132C
+  1 mygod
+  2 iv installed duet just now
+  3 test branch here
+  4 onanother
+  5 lalala
+  6 =======
+  7 2017? 6îJ 11ù^ ù^ûãù^ 23:01:54 JST
+  8 >>>>>>> master
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+msg                                                                                                                                                                                                                                        1,1           ?˙y
+"msg" 8L, 132C
+  1 mygod
+  2 iv installed duet just now
+  3 test branch here
+  4 2017? 6îJ 11ù^ ù^ûãù^ 23:01:54 JST
+  5 onanother
+  6 lalala
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+msg [+]                                                                                                                                                                                                                                    4,1           ?˙y
+"msg" 6L, 109C ???
+
+* 1cab3f4 msg from onanother
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| |/
+|/|
+* | ef6449a test branch here
+| * 4a88bdd duet
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge master
+Auto-merging msg
+CONFLICT (content): Merge conflict in msg
+Automatic merge failed; fix conflicts and then commit the result.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:06 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:06 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing  145  6îJ 11 23:06 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge msg
+error: merge is not possible because you have unmerged files.
+???: Fix them up in the work tree, and then use 'git add/rm <file>'
+???: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch another
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+        both modified:   msg
+
+no changes added to commit (use "git add" and/or "git commit -a")
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git mergetool
+
+This message is displayed because 'merge.tool' is not configured.
+See 'git mergetool --tool-help' or 'git help config' for more details.
+'git mergetool' will now attempt to use one of the following tools:
+tortoisemerge emerge vimdiff
+Merging:
+msg
+
+Normal merge conflict for 'msg':
+  {local}: modified file
+  {remote}: modified file
+Hit return to start merge resolution tool (vimdiff):
+4 ?????ôO?ì‹????˙y?åÜ?
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git mergetool
+
+This message is displayed because 'merge.tool' is not configured.
+See 'git mergetool --tool-help' or 'git help config' for more details.
+'git mergetool' will now attempt to use one of the following tools:
+tortoisemerge emerge vimdiff
+No files need merging
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 24
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:08 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:08 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing  132  6îJ 11 23:08 msg
+-rw-rw-r-- 1 huangweijing huangweijing  145  6îJ 11 23:07 msg.orig
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ vi msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ lll
+???? 'lll' ???òÚ?åÜ????????òÚ?˙y:
+ ???? 'llt' - ??ì≠Âhñl 'storebackup' (universe)
+ ???? 'dll' - ??ì≠Âhñl 'brickos' (universe)
+ ???? 'llc' - ??ì≠Âhñl 'llvm' (universe)
+ ???? 'lli' - ??ì≠Âhñl 'llvm-runtime' (universe)
+lll: ???????òÚ?åÜ??
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 24
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:08 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:08 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing  109  6îJ 11 23:08 msg
+-rw-rw-r-- 1 huangweijing huangweijing  145  6îJ 11 23:07 msg.orig
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ rm msg.orig
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:08 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:08 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing  109  6îJ 11 23:08 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:08 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:08 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing  109  6îJ 11 23:08 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch another
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+
+        modified:   msg
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   msg
+
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git status
+On branch another
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+
+        modified:   msg
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   msg
+
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git commit -a -m "commit after merged with master"
+[another 1480747] commit after merged with master
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph --oneline
+*   1480747 commit after merged with master
+|\
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| * | 4a88bdd duet
+* | | eb6ddbd msg from onanother lll
+* | | 1cab3f4 msg from onanother
+| |/
+|/|
+* | ef6449a test branch here
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git checkout master
+Switched to branch 'master'
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git checkout master
+Already on 'master'
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph --oneline
+* e8f9af2 commit after merged
+*   ee093e3 merged over
+|\
+| * ef6449a test branch here
+* | 4a88bdd duet
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph --oneline --all
+*   1480747 commit after merged with master
+|\
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| * | 4a88bdd duet
+* | | eb6ddbd msg from onanother lll
+* | | 1cab3f4 msg from onanother
+| |/
+|/|
+* | ef6449a test branch here
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git branch
+  another
+* master
+  test
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git mergee another
+git: 'mergee' ?git????????åÜ??? 'git --help'??úq?˙y?????
+
+Did you mean this?
+        merge
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge another
+Updating e8f9af2..1480747
+Fast-forward
+ msg | 2 ++
+ 1 file changed, 2 insertions(+)
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph --oneline --all
+*   1480747 commit after merged with master
+|\
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| * | 4a88bdd duet
+* | | eb6ddbd msg from onanother lll
+* | | 1cab3f4 msg from onanother
+| |/
+|/|
+* | ef6449a test branch here
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph --oneline
+*   1480747 commit after merged with master
+|\
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| * | 4a88bdd duet
+* | | eb6ddbd msg from onanother lll
+* | | 1cab3f4 msg from onanother
+| |/
+|/|
+* | ef6449a test branch here
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git merge 1cab3f4
+Already up-to-date.
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git checkout 1cab3f4
+Note: checking out '1cab3f4'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at 1cab3f4... msg from onanother
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ lll
+???? 'lll' ???òÚ?åÜ????????òÚ?˙y:
+ ???? 'dll' - ??ì≠Âhñl 'brickos' (universe)
+ ???? 'llc' - ??ì≠Âhñl 'llvm' (universe)
+ ???? 'llt' - ??ì≠Âhñl 'storebackup' (universe)
+ ???? 'lli' - ??ì≠Âhñl 'llvm-runtime' (universe)
+lll: ???????òÚ?åÜ??
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:12 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:12 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing   27  6îJ 11 23:12 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ cat msg
+test branch here
+onanother
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph --oneline
+* 1cab3f4 msg from onanother
+* ef6449a test branch here
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph --oneline --all
+*   1480747 commit after merged with master
+|\
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| * | 4a88bdd duet
+* | | eb6ddbd msg from onanother lll
+* | | 1cab3f4 msg from onanother
+| |/
+|/|
+* | ef6449a test branch here
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git checkout master
+Previous HEAD position was 1cab3f4... msg from onanother
+Switched to branch 'master'
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph --oneline --all
+*   1480747 commit after merged with master
+|\
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| * | 4a88bdd duet
+* | | eb6ddbd msg from onanother lll
+* | | 1cab3f4 msg from onanother
+| |/
+|/|
+* | ef6449a test branch here
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ll
+?? 20
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 23:13 ./
+drwxrwxr-x 3 huangweijing huangweijing 4096  6îJ 11 20:22 ../
+drwxrwxr-x 8 huangweijing huangweijing 4096  6îJ 11 23:13 .git/
+-rw-rw-r-- 1 huangweijing huangweijing   10  6îJ 11 20:26 hello
+-rw-rw-r-- 1 huangweijing huangweijing  109  6îJ 11 23:13 msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ ls
+hello  msg
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$ git log --graph --oneline --all
+*   1480747 commit after merged with master
+|\
+| * e8f9af2 commit after merged
+| *   ee093e3 merged over
+| |\
+| * | 4a88bdd duet
+* | | eb6ddbd msg from onanother lll
+* | | 1cab3f4 msg from onanother
+| |/
+|/|
+* | ef6449a test branch here
+|/
+* 1510ff8 oha
+* 31d922e first
+huangweijing@ubuntu-server:~/Documents/dev/git/20170611$
